@@ -4,7 +4,7 @@
 
 ## Description
  
-The Astro is an open-source gaming handheld based on the Jetson Nano single board computer.  It is designed to be built using off the shelf components and 3D printed parts.  This was designed to fit my personal use case so there are some odd design choices, such as mono-only headphone output and lack of internal speaker.  
+The Astro is an open-source gaming handheld based on the Jetson Nano single board computer.  It is designed with the goals of performance, ergonomics, and to be built using off the shelf components and 3D printed parts.  This was designed to fit my personal use case so there are some odd design choices, such as mono-only headphone output and lack of internal speaker.  
 
 ## Features
 
