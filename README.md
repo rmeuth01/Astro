@@ -1,4 +1,6 @@
 # Astro: Jetson Nano Handheld
+![IMG_7942](https://github.com/rmeuth01/Astro/assets/5761249/d2a0bce0-cb42-43ca-8d1d-f333351d6111)
+
 
 ## Description
  
@@ -13,7 +15,8 @@ The Astro is an open-source gaming handheld based on the Jetson Nano single boar
 - 800 x 480 (5:3 aspect ratio) IPS display
 - 10,000mAh battery, providing up to 6 hours of gameplay
 - 5.0GHz IEEE 802.11b/g/n/ac wireless, Bluetooth 4.2
-- Mono Audio Output via i2s MAX98357A audio amplifier
+- Mono Audio Output via i2s MAX98357A audio ampl![IMG_7942](https://github.com/rmeuth01/Astro/assets/5761249/306ef9a0-4dc5-4c00-9a60-ec94f09652cd)
+ifier
 - Headphone jack
 - USB 2.0 Host port, USB-C Charging Port
 - Charging indicator
