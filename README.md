@@ -1,5 +1,6 @@
 # Astro: Jetson Nano Handheld
-![IMG_7980](https://github.com/rmeuth01/Astro/assets/5761249/7fef4550-c004-400e-8194-f2e415b49c8b)
+
+![IMG_7980](https://github.com/rmeuth01/Astro/assets/5761249/45017539-cd26-46e6-9e4e-8fded3a04f32)
 
 ## Description
  
