@@ -12,6 +12,7 @@ The Astro is an open-source gaming handheld based on the Jetson Nano single boar
   - Quad-core ARM Cortex-A57 processor (Overclocked to 2.0 GHz)
   - NVIDIA Maxwell GPU with 128  CUDA cores
   - 4 GB LPDDR4
+  - RTC Enabled with battery backup
 - 800 x 480 (5:3 aspect ratio) display
 - 10,000mAh battery, providing up to 6 hours of gameplay
 - 5.0GHz IEEE 802.11b/g/n/ac wireless, Bluetooth 4.2
