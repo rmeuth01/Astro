@@ -36,11 +36,11 @@ Charge: 5V@2A for 8 hours
 Setup - https://retropie.org.uk/docs/First-Installation/
 [Adding Themes](https://wiki.recalbox.com/en/tutorials/frontend-customization/add-themes-into-emulationstation)
 
-###Fixing Save States
+### Fixing Save States
 - git stash, update ARES scripts, remove then reinstall retroarch.
 - /opt/ares/configs/all/retroarch/states
 
-###Adding TDP Settings
+### Adding TDP Settings
 - Remove MAX from Automagic-fan 
 - Add TDP entry to ARES settingsmenu gamelist.xml
 - Create empty “power.rp” file
@@ -66,18 +66,18 @@ gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-timeout 
 '''
 
 ## Emulator Config
-###Saturn 
+### Saturn 
 From Retroarena-Setup, install & compile standalone yabause
 Error in threads.h - correct to unsigned long
 Comment out git line in yabause.sh scritp, add dummy=true and re-install from RetroArena-Setup.
 
-###Duckstation Controls
+### Duckstation Controls
 Download and Install SDL: https://wiki.libsdl.org/SDL2/Installation
 Built SDL Tests - run controllermap
 Copy map string to gamecontrollerdb.txt in /opt/ares/duckstation/database
 Remap in Duckstation Controller Settings
 
-###PPSSPP Controls
+### PPSSPP Controls
 Update PPSSPP From RetroArena-Setup
 Copy gamecontrollerdb.txt from above to /opt/ares/emulators/ppsspp/assets
 
