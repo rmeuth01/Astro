@@ -1,5 +1,5 @@
 # Astro Hardware
-The hardware consists of mostly off-the-shelf components, [custom gamepad](Gamepad/), and 3D printed [housing](Housing/) and [buttons](Buttons/).  The 3D printed parts are designed to be easily printed on a mid-range consumer 3D printer like an Ender 3 or similar.  
+The hardware consists of mostly off-the-shelf components, [custom gamepad](Gamepad/), and 3D printed [housing](Housing/) and [buttons](Buttons/).  The 3D printed parts are designed to be easily printed on a mid-range consumer 3D printer like an Ender 3 or similar. Design files are availble in this folder, and STL files are available on [Printables](https://www.printables.com/model/537843-astro-jetson-nano-game-handheld).  
 The off-the shelf components are listed in the table below.
 
 | Item	| Vendor / Link	| Qty |	Unit Cost |	Line Total |
